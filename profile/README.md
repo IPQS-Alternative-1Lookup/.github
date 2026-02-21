@@ -26,11 +26,12 @@ Follow these 4 simple steps to claim your free lookups and volume discounts.
 
 **Step 1:** Visit the **1Lookup official website** with this [**discount link**](https://www.1lookup.io/).
 
-![1Lookup official website](image_homepage.png)
+
+[![1Lookup official website](https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup2.png)](https://www.1lookup.io/)
 
 **Step 2:** Click on the **Pricing** or **Sign Up** tab from the top bar to view their Universal Credit system.
 
-![Select a plan](image_pricing.png)
+[![Select a plan](https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup3.png)](https://www.1lookup.io/)
 
 **Step 3:** Now, **create your 1Lookup account** by entering your email ID.
 
