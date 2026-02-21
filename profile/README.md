@@ -56,7 +56,8 @@ If you are not seeing your free credits or bulk discount, follow these steps to 
 
 Unlike IPQualityScore (IPQS), which can lock you into confusing monthly subscriptions that cost thousands of dollars for enterprise tiers, 1Lookup operates as a true IPQS alternative by utilizing a straightforward **Pay-As-You-Go Universal Credit** system.
 
-![1Lookup pricing](image_pricing_table.png)
+
+[![1Lookup pricing](https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup5.png)](https://www.1lookup.io/)
 
 | Plan Type | Pricing Details | Best For |
 | --- | --- | --- |
@@ -119,7 +120,7 @@ If your business relies heavily on accurate fraud prevention but wants to optimi
 
 If you want an accurate, developer-friendly platform that actually stops fraud without the rigid contracts of IPQualityScore, 1Lookup is a top-tier choice. With their flexible Universal Credit system, you never overpay for what you don't use. Grab your **1,000 free lookups** to start testing this powerful IPQS alternative, and take advantage of their bulk pricing to scale your fraud prevention securely.
 
-[![Claim This Discount](image_cta.png)](https://www.1lookup.io/)
+[![Claim This Discount](https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup.png)](https://www.1lookup.io/)
 
 Create your free account, integrate the API, and start verifying your data faster and smarter.
 
