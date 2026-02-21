@@ -35,7 +35,7 @@ Follow these 4 simple steps to claim your free lookups and volume discounts.
 
 **Step 3:** Now, **create your 1Lookup account** by entering your email ID.
 
-![Sign up](image_signup.png)
+[![Select a plan](https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup4.png)](https://www.1lookup.io/)
 
 **Tip:** As soon as you sign up, your 1,000 free lookups are automatically credited to your dashboard to test the API against your current IPQS setup.
 
