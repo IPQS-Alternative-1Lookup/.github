@@ -5,19 +5,20 @@ We brought you verified [1Lookup coupons](https://www.1lookup.io/) for developer
 
 [**Get 1,000 free lookups instantly**](https://www.1lookup.io/) when you create a new account to test 1Lookup's accuracy as an IPQS alternative. Detect VPNs, proxies, disposable emails, and fake phone numbers with real-time validation powered by daily telecom and IP data updates.
 
-[![Claim This Discount](image_cta.png)](https://www.1lookup.io/)
 
+https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup.png
+what 
 ## Save Big on Bulk Intelligence Credits
 
 [**Get volume discounts on universal credits**](https://www.1lookup.io/) with this 1Lookup promo. Because 1Lookup uses a pay-as-you-go model rather than the expensive, rigid subscription tiers found in IPQualityScore, buying credits in bulk drastically reduces your cost per API call, helping you scale your fraud prevention efficiently.
 
-[![Claim This Discount](image_cta.png)](https://www.1lookup.io/)
+[![Claim This Discount](https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup.png)](https://www.1lookup.io/)
 
 ## 1Lookup Promo Code: Integrate in 5 Minutes
 
 [**Activate your 1Lookup account**](https://www.1lookup.io/) and integrate their sub-300ms REST API into your workflow. Whether you are validating web forms or securing checkouts, this IPQS alternative blocks up to 87% more fraudulent signups without slowing down your user experience.
 
-[![Claim This Discount](image_cta.png)](https://www.1lookup.io/)
+[![Claim This Discount](https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup.png)](https://www.1lookup.io/)
 
 ## How to Apply the 1Lookup Coupon Code?
 
