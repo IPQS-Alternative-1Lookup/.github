@@ -7,7 +7,6 @@ We brought you verified [1Lookup coupons](https://www.1lookup.io/) for developer
 
 
 https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup.png
-what 
 ## Save Big on Bulk Intelligence Credits
 
 [**Get volume discounts on universal credits**](https://www.1lookup.io/) with this 1Lookup promo. Because 1Lookup uses a pay-as-you-go model rather than the expensive, rigid subscription tiers found in IPQualityScore, buying credits in bulk drastically reduces your cost per API call, helping you scale your fraud prevention efficiently.
