@@ -57,7 +57,7 @@ If you are not seeing your free credits or bulk discount, follow these steps to 
 Unlike IPQualityScore (IPQS), which can lock you into confusing monthly subscriptions that cost thousands of dollars for enterprise tiers, 1Lookup operates as a true IPQS alternative by utilizing a straightforward **Pay-As-You-Go Universal Credit** system.
 
 
-[![1Lookup pricing](https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup5.png)](https://www.1lookup.io/)
+[![1Lookup pricing](https://raw.githubusercontent.com/IPQS-Alternative-1Lookup/.github/refs/heads/main/1lookup5.png)](https://www.1lookup.io/price)
 
 | Plan Type | Pricing Details | Best For |
 | --- | --- | --- |
